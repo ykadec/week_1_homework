@@ -1,6 +1,6 @@
 # Week 1 Homework
 
-The goal of this homework is to get comfortable with editing code using Sublime Text 3, and to get our feet with HTML.
+The goal of this homework is to get comfortable with editing code using Sublime Text 3, and to get our feet wet with HTML.
 
 We'll be recreating our course syllabus starting from plain old content. The first step will be to add semantic structure with HTML. Later, we'll add styling with CSS.
 
