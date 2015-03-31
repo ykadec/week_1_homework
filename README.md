@@ -33,7 +33,7 @@ Here is a good reference to learn about what these, and all other, tags are mean
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
-It's pretty remarkable to me that the entire web is built with such a relatively small number of elements. And even of that small number, we use even fewer on a daily basis.
+It's pretty remarkable to me that the entire web is built with such a relatively small number of elements. And of that small number, we use even fewer on a daily basis.
 
 Anyway, I usually find it best to head straight for the examples when dealing with programming language documentation:
 
