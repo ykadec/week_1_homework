@@ -9,7 +9,7 @@ We'll be recreating our course syllabus starting from plain old content. The fir
  - **Fork** this repository to your own account (button in the top right).
  - **Clone** your fork in Desktop (button in the bottom right).
  - In the folder you just downloaded, there is a file called `syllabus.html`. Open it up in both Sublime and in Chrome.
- - Right now, in Chrome, your version should look like a big wall of text with no formatting. Your goal is to get it to look something like this.
+ - Right now, in Chrome, your version should look like a big wall of text with no formatting. Your goal is to edit the source code until it looks something like this: http://dsgn425-s15.github.io/week_1_homework/
  - As you work, don't forget to Sync often in your GitHub Desktop App. Usually I commit and sync every time I complete a useful chunk of work, or before I start doing something experimental that I might want to throw away.
 
 ## Add Basic Tags
