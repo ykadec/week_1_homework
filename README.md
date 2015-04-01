@@ -159,9 +159,9 @@ I would do it in two phases. First, let's build a simple one-column table and ge
 
 Add your `<table>` and `</table>` tags above and below all of the content, first of all. Next, we need to put each line of text within a `<td>` and within a `<tr>`. That would produce a single-column table for us to start with.
 
-Multiple cursors will come in handy for this: https://www.sublimetext.com/docs/2/column_selection.html
+Multiple cursors will come in handy for this: https://www.sublimetext.com/docs/3/column_selection.html
 
-On Mac, hold Option while left-click dragging; Windows, hold Alt while right-click dragging. [Here's a short video I recorded to demonstrate](http://htmlpreview.github.io/?https://github.com/dsgn425-s15/week_1_homework/blob/master/vertical_selection.html).
+On Mac, hold Option while left-click dragging; Windows, hold Shift while right-click dragging. [Here's a short video I recorded to demonstrate](http://htmlpreview.github.io/?https://github.com/dsgn425-s15/week_1_homework/blob/master/vertical_selection.html).
 
 ### The Schedule: Phase 2
 
